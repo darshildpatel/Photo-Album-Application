@@ -10,3 +10,6 @@ A photo album web application, that can be searched using natural language throu
 * "Ayush Sethi"<as11500@nyu.edu>
 * "Darshil Patel"<ddp337@nyu.edu>
 * "Dhaval Pathak"<dhp287@nyu.edu>
+
+##
+ Made with :heart: in New York :statue_of_liberty:
