@@ -2,7 +2,7 @@
 A photo album web application, that can be searched using natural language through both text and voice.
 
 ## Architecture 
-![alt text](https://github.com/darshildpatel/PhotoAlbumApp/blob/master/Architecture.jpg)
+![alt text](https://github.com/darshildpatel/Photo-Album-Application/blob/master/Architecture.jpg)
 
 
 
